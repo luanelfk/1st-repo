@@ -16,8 +16,11 @@ Core Curriculum Complete | Advancing to Algorithms & Calculus
 
 ## 🕹️ Player Stats
 👨‍💻 class Developer;
+
 👨‍👩‍👧 self.passion = "Spending time with my family"
+
 🎮 self.playstyle = "Story driven experiences | RPGs & FPS"
+
 💻 self.current_quest = "Tailor all knowledge and hone my skills"
 
 
