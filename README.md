@@ -11,6 +11,21 @@
 🏫 **Education Track**:  
 ░░░░░░░░░░▣▢▢▢▢▢▢▢ (18.75%)  
 Core Curriculum Complete | Advancing to Algorithms & Calculus 
-💻 **Skill Tree (under development)**: Java, JavaScript, Python, MySQL, Git, CSS3, HTML5, TailwindCSS.
+💻 **Skill Tree (under development)**: Java | JavaScript | Python | MySQL | Git | CSS3 | HTML5 | TailwindCSS
+
+
+## 🕹️ Player Stats
+👨‍💻 class Developer;
+👨‍👩‍👧 self.passion = "Spending time with my family"
+🎮 self.playstyle = "Story driven experiences | RPGs & FPS"
+💻 self.current_quest = "Tailor all knowledge and hone my skills"
+
+
+## 🏆 Achievements Unlocked
+✅ Beautiful and Supportive Family by my side 
+
+## 🔗 **Co-op Mode Activated**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-el-fakih-franca/)  
+[![Steam](https://img.shields.io/badge/Steam-Gaming_Profile-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Lcouto)
 
 
