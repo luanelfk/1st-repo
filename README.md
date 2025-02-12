@@ -10,7 +10,9 @@
 
 🏫 **Education Track**:  
 ░░░░░░░░░░▣▢▢▢▢▢▢▢ (18.75%)  
+
 Core Curriculum Complete | Advancing to Algorithms & Calculus 
+
 💻 **Skill Tree (under development)**: Java | JavaScript | Python | MySQL | Git | CSS3 | HTML5 | TailwindCSS
 
 
