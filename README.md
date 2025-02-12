@@ -17,7 +17,7 @@ Core Curriculum Complete | Advancing to Algorithms & Calculus
 
 
 ## 🕹️ Player Stats
-👨‍💻 class Developer;
+👨‍💻 class Developer
 
 👨‍👩‍👧 self.passion = "Spending time with my family"
 
